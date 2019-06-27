@@ -1,6 +1,5 @@
 
-import { iBmw } from "./interfaces/Ibmw";
-import { Model } from "./types/Model"
+import { iBmw, Model } from "./interfaces/index";
 
 class BmwFactory{
     static create(type: Model) {

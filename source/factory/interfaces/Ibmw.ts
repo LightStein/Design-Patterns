@@ -1,4 +1,4 @@
-import { Model } from "../types/Model"
+export type Model = 'X5' | 'X6'
 
 export interface iBmw {
     model: Model

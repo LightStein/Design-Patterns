@@ -1,0 +1,1 @@
+export { iBmw, Model} from './Ibmw'
