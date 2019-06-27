@@ -1,0 +1,1 @@
+export interface iDroid { info: () => string }

@@ -1,0 +1,1 @@
+export type Model = 'X5' | 'X6'
